@@ -1,0 +1,5 @@
+polomer = float(input("Prosim zadajte polomer kruznice:"))
+# polomer = float(polomer)
+pi = float(3.14)
+# pi = float(pi)
+print (2 * pi * polomer)
